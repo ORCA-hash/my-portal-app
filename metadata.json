@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Agency Portal",
+  "description": "A comprehensive agency client portal featuring role-based access, task management, real-time chat, AI-powered report insights, and invoice management.",
+  "requestFramePermissions": []
+}
